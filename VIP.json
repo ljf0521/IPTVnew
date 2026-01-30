@@ -10,67 +10,25 @@
       "quickSearch": 0,
       "filterable": 1
     },
+    
     {
-      "key": "彼岸",
-      "name": "彼岸｜APP",
+      "key": "柚子",
+      "name": "柚子┃APP",
       "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "jar": "./ijfdS2y7122j.jar",
-      "ext": {
-        "url": "http://172.247.44.217:30012",
-        "dataKey": "JLa1oRdL6+eK7@M)",
-        "dataIv": "JLa1oRdL6+eK7@M)",
-        "deviceId": "",
-        "version": ""
-      }
+      "api": "csp_Xdai",
+      "playerType": 2,
+      "jar": "https://gitee.com/a6725666/tvbox/raw/master/jar/fix251212.jar",
+      "ext": "7lj763gg402i7942553393i9g44g8j82k2g9jg54ih863325555955g5g1595i1741i70lk1i00hji87320gh6j1gkkg0jh4g8697h06ghh3jhl5339731hj7hh5595ilkkkjhh8k261236896432i458hkk4i756kh5k3773jl2j8gj958228h178060g6h72j974g8k1"
     },
+
     {
-      "key": "咖啡",
-      "name": "☕️咖啡┃超清┃弹幕",
+      "key": "永夜",
+      "name": "永夜┃App",
       "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppQi",
-      "jar": "http://我不是.摸鱼儿.com/d/moyuer.php;md5;36456a794b9f6d670931667d79bf8e9c",
-      "ext": {
-        "url": "",
-        "site": "./mqxh.txt",
-        "dataKey": "37kj83zs1q16jk6t",
-        "dataIv": "37kj83zs1q16jk6t",
-        "deviceId": "",
-        "version": "101",
-        "ua": ""
-      }
-    },
-    {
-      "key": "蓝鹰",
-      "name": "🦅蓝鹰┃超清┃弹幕",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppQi",
-      "jar": "http://我不是.摸鱼儿.com/d/moyuer.php;md5;36456a794b9f6d670931667d79bf8e9c",
-      "ext": {
-        "url": "",
-        "site": "./lanyingxmy.txt",
-        "dataKey": "ca94b06ca359d80e",
-        "dataIv": "ca94b06ca359d80e",
-        "deviceId": "",
-        "version": "120"
-      }
-    },
-    {
-      "key": "开心",
-      "name": "😄开心┃超清┃弹幕",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppQi",
-      "jar": "http://我不是.摸鱼儿.com/d/moyuer.php;md5;36456a794b9f6d670931667d79bf8e9c",
-      "ext": {
-        "site": "./gw.txt",
-        "dataKey": "ca94b06ca3c7d80e",
-        "dataIv": "ca94b06ca3c7d80e",
-        "ua": "okhttp/3.10.0"
-      }
+      "api": "csp_Xdai",
+      "playerType": 2,
+      "jar": "https://gitee.com/a6725666/tvbox/raw/master/jar/fix251212.jar",
+      "ext": "7lj763gg0939790i413gjh9kk011jijiggll990k9li73l224k770ik0j10l502j2j9l798lhj778hh33g018h94k5j400kij3567j7gji97kkk4118421g03lll"
     },
     {
       "key": "热播",
