@@ -16,7 +16,7 @@
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
-      "jar": "./lib/ijfdS2y7122j.jar",
+      "jar": "./ijfdS2y7122j.jar",
       "ext": {
         "url": "http://172.247.44.217:30012",
         "dataKey": "JLa1oRdL6+eK7@M)",
@@ -34,7 +34,7 @@
       "jar": "http://我不是.摸鱼儿.com/d/moyuer.php;md5;36456a794b9f6d670931667d79bf8e9c",
       "ext": {
         "url": "",
-        "site": "./lib/mqxh.txt",
+        "site": "./mqxh.txt",
         "dataKey": "37kj83zs1q16jk6t",
         "dataIv": "37kj83zs1q16jk6t",
         "deviceId": "",
@@ -51,7 +51,7 @@
       "jar": "http://我不是.摸鱼儿.com/d/moyuer.php;md5;36456a794b9f6d670931667d79bf8e9c",
       "ext": {
         "url": "",
-        "site": "./lib/lanyingxmy.txt",
+        "site": "./lanyingxmy.txt",
         "dataKey": "ca94b06ca359d80e",
         "dataIv": "ca94b06ca359d80e",
         "deviceId": "",
@@ -66,7 +66,7 @@
       "api": "csp_AppQi",
       "jar": "http://我不是.摸鱼儿.com/d/moyuer.php;md5;36456a794b9f6d670931667d79bf8e9c",
       "ext": {
-        "site": "./lib/gw.txt",
+        "site": "./gw.txt",
         "dataKey": "ca94b06ca3c7d80e",
         "dataIv": "ca94b06ca3c7d80e",
         "ua": "okhttp/3.10.0"
@@ -78,7 +78,7 @@
       "type": 3,
       "api": "csp_TTian",
       "playerType": 2,
-      "jar": "./lib/lh250711.jar",
+      "jar": "./lh250711.jar",
       "ext": "7lj763gg0939791h1l3888jig44gi291li"
     },
     {
@@ -87,7 +87,7 @@
       "type": 3,
       "api": "csp_Nmvod",
       "playerType": 2,
-      "jar": "./lib/lh250711.jar",
+      "jar": "./lh250711.jar",
       "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
     },
     {
@@ -96,7 +96,7 @@
       "type": 3,
       "api": "csp_Muou",
       "playerType": 2,
-      "jar": "./lib/lh250711.jar",
+      "jar": "./lh250711.jar",
       "ext": "7lj763gg402i794247258k9jh6598585l3g6ij13il8g20g9qiaoji8j9i9k1g3k90h7i507i213k5j602"
     },
     {
@@ -105,7 +105,7 @@
       "type": 3,
       "api": "csp_TTian",
       "playerType": 2,
-      "jar": "./lib/lh250711.jar",
+      "jar": "./lh250711.jar",
       "ext": "7lj763gg0939791h1l2681i6g94li291li"
     },
     {
@@ -114,14 +114,14 @@
       "type": 3,
       "api": "csp_qiao2",
       "playerType": 2,
-      "jar": "./lib/lh250711.jar",
+      "jar": "./lh250711.jar",
       "ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"
     },
     {
       "key": "剧评",
       "name": "艾艾影视",
       "type": 3,
-      "jar": "./lib/qji.jar",
+      "jar": "./qji.jar",
       "api": "csp_Jpys",
       "playerType": 1,
       "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
